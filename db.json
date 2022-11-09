@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "apple",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 45,
+      "comment": "yu",
+      "date": "2022-11-08T18:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "potatoes",
+      "category": "Vegetables",
+      "freshness": "Refurbished",
+      "price": 40,
+      "comment": "very fresh",
+      "date": "2022-11-08T18:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "sak",
+      "category": "Vegetables",
+      "freshness": "Refurbished",
+      "price": 30,
+      "comment": "very fresh",
+      "date": "2022-11-07T18:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Brokely",
+      "category": "Vegetables",
+      "freshness": "Refurbished",
+      "price": 45,
+      "comment": "Fresh",
+      "date": "2022-11-06T18:00:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
